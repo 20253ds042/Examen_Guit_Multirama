@@ -1,6 +1,6 @@
 // Version Base de la Calculodora
-
+[Operacion] Funcion suma implementada
 [Operacion] Funcion suma implementada
 
 [Operacion] Funcion resta implementada
-
+feature/resta
